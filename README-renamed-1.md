@@ -1,4 +1,0 @@
-# personal
-
-## kotlin
-github codespaces
